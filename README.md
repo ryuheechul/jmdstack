@@ -30,6 +30,7 @@ short for jammed stack 🤪
 - [ ] bash
 - [ ] ash
 - [ ] [webhook](https://github.com/adnanh/webhook)
+- [ ] next.js
 - [ ] zsh
 - [ ] fish
 
@@ -70,7 +71,7 @@ short for jammed stack 🤪
 - [ ] Rails
 - [ ] Pheonix
 
-### front
+### front-end
 - [ ] React
 - [ ] Headless CMS
 - [ ] JAMstack
