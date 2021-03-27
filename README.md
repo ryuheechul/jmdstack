@@ -24,9 +24,12 @@ short for jammed stack 🤪
 - [ ] Debian
 
 ### tool
+- [x] nix
 - [ ] docker
-- [ ] k8s
-- [ ] terraform
+- [x] k8s
+- [x] helm
+- [x] crossplane
+- [x] terraform
 - [ ] bash
 - [ ] ash
 - [ ] [webhook](https://github.com/adnanh/webhook)
@@ -38,6 +41,7 @@ short for jammed stack 🤪
 - [ ] C
 - [ ] Elm
 - [ ] ReasonML
+- [x] Nix
 - [ ] JavaScript
 - [ ] Java
 - [ ] Elixir
