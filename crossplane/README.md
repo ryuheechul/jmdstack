@@ -16,6 +16,8 @@ You will needs these:
 - minikube
 - terraform
 
+You may look at [this](https://crossplane.io/docs/v1.1/getting-started/install-configure.html) for additional requirements.
+
 ## Play
 
 Use [Makefile](./Makefile) to provision and run and teardown.
