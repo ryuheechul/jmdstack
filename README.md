@@ -105,3 +105,8 @@ short for jammed stack 🤪
 
 ### network
 - [ ] Istio
+
+### monitoring
+- [x] prometheus
+- [x] grafana
+- [x] [OhmGraphite](https://github.com/nickbabcock/OhmGraphite)
