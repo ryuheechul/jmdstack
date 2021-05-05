@@ -5,12 +5,13 @@ short for jammed stack 🤪
 ## what
 - all different tech stack will be added here together
 - it is **not** a project trying to be useful by any means
+- [journal](./journal) might contain short stories on them
 
 ## why
 - 😉 just for fun
 - oh and it should allow me to learn old and new tech at least for basics
 
-## roadmap
+## direction
 - the list can grow anytime I feel like it
 - and I'm probably being quite ambitious about the listing
 - it's ok, it's more like a wishlist
@@ -24,9 +25,12 @@ short for jammed stack 🤪
 - [ ] Debian
 
 ### tool
+- [x] make
+- [x] direnv
 - [x] nix
 - [x] docker
 - [x] k8s
+- [x] minikube
 - [x] helm
 - [x] crossplane
 - [x] terraform
