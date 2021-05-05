@@ -25,12 +25,12 @@ short for jammed stack 🤪
 
 ### tool
 - [x] nix
-- [ ] docker
+- [x] docker
 - [x] k8s
 - [x] helm
 - [x] crossplane
 - [x] terraform
-- [ ] bash
+- [x] bash
 - [ ] ash
 - [ ] [webhook](https://github.com/adnanh/webhook)
 - [ ] next.js
@@ -43,6 +43,7 @@ short for jammed stack 🤪
 - [ ] ReasonML
 - [x] Nix
 - [ ] JavaScript
+- [x] YAML
 - [ ] Java
 - [ ] Elixir
 - [ ] Python
