@@ -22,7 +22,7 @@ with pkgs; let
   artifactSha256 = coressponentArtifact.sha256;
 in
   # https://ops.functionalalgebra.com/nix-by-example/
-  if builtins.hasAttr "os_arch" coressponentArtifact then
+  if builtins.hasAttr "sha256" coressponentArtifact then
   stdenv.mkDerivation rec {
     name = "crossplane-cli";
     version = "${artifactVersion}";
