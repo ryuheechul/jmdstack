@@ -47,6 +47,7 @@ short for jammed stack 🤪
 - [ ] ReasonML
 - [x] Nix
 - [ ] JavaScript
+- [x] TypeScript
 - [x] YAML
 - [ ] Java
 - [ ] Elixir
