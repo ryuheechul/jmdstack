@@ -45,9 +45,6 @@ short for jammed stack 🤪
 - [ ] next.js
 - [ ] zsh
 - [ ] fish
-- [ ] nodejs
-- [x] deno
-- [x] [phoenix](https://phoenixframework.org)
 - [x] [jq](https://stedolan.github.io/jq/)
 - [x] [yq](https://mikefarah.gitbook.io/yq/)
 
@@ -86,11 +83,13 @@ short for jammed stack 🤪
 - [ ] PHP
 
 ### server
-- [ ] nginx
-- [ ] expressjs
+- [ ] Nginx
+- [ ] ExpressJS
 - [ ] haproxy
 - [ ] Rails
-- [ ] Pheonix
+- [ ] NodeJS
+- [x] Deno
+- [x] [Phoenix](https://phoenixframework.org)
 
 ### front-end
 - [ ] React
