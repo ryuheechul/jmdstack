@@ -10,3 +10,9 @@
 [submodule "taste-crossplane"]
 	path = taste-crossplane
 	url = https://github.com/ryuheechul/taste-crossplane
+[submodule "playground-actions"]
+	path = playground-actions
+	url = https://github.com/ryuheechul/playground-actions
+[submodule "dummy-aws"]
+	path = dummy-aws
+	url = https://github.com/ryuheechul/dummy-aws
