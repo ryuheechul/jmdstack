@@ -7,3 +7,6 @@
 [submodule "eb-sqs-imdsv2"]
 	path = eb-sqs-imdsv2
 	url = https://github.com/ryuheechul/eb-sqs-imdsv2
+[submodule "taste-crossplane"]
+	path = taste-crossplane
+	url = https://github.com/ryuheechul/taste-crossplane

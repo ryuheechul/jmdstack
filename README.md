@@ -26,12 +26,15 @@ short for jammed stack 🤪
 
 ### tool
 - [x] make
-- [x] earthly
+- [x] [earthly](https://github.com/earthly/earthly)
+- [x] [act](https://github.com/nektos/act)
 - [x] direnv
 - [x] nix
 - [x] docker & docker-compose
 - [x] k8s
 - [x] minikube
+- [x] kustomize
+- [x] [fluxcd](https://github.com/fluxcd/flux)
 - [x] helm
 - [x] crossplane
 - [x] terraform
@@ -44,6 +47,8 @@ short for jammed stack 🤪
 - [ ] fish
 - [ ] nodejs
 - [x] deno
+- [x] [jq](https://stedolan.github.io/jq/)
+- [x] [yq](https://mikefarah.gitbook.io/yq/)
 
 ### lang
 - [ ] C
@@ -110,7 +115,7 @@ short for jammed stack 🤪
 - [ ] etcd
 
 ### service
-- [ ] github actions
+- [x] github actions
 - [ ] gitpod
 - [x] AWS
 
