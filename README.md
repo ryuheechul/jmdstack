@@ -47,8 +47,10 @@ short for jammed stack 🤪
 - [ ] fish
 - [ ] nodejs
 - [x] deno
+- [x] [phoenix](https://phoenixframework.org)
 - [x] [jq](https://stedolan.github.io/jq/)
 - [x] [yq](https://mikefarah.gitbook.io/yq/)
+
 
 ### lang
 - [ ] C
@@ -59,7 +61,7 @@ short for jammed stack 🤪
 - [x] TypeScript
 - [x] YAML
 - [ ] Java
-- [ ] Elixir
+- [x] [Elixir](https://elixir-lang.org)
 - [x] Python
 - [ ] Ruby
 - [ ] Rust
