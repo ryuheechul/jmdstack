@@ -4,3 +4,6 @@
 [submodule "do-tht-echo"]
 	path = do-tht-echo
 	url = https://github.com/ryuheechul/do-tht-echo
+[submodule "eb-sqs-imdsv2"]
+	path = eb-sqs-imdsv2
+	url = https://github.com/ryuheechul/eb-sqs-imdsv2

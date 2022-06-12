@@ -20,38 +20,42 @@ short for jammed stack 🤪
 
 ### os
 - [ ] macOS
-- [ ] Alpine Linux
+- [x] Alpine Linux
 - [ ] Ubuntu
 - [ ] Debian
 
 ### tool
 - [x] make
+- [x] earthly
 - [x] direnv
 - [x] nix
-- [x] docker
+- [x] docker & docker-compose
 - [x] k8s
 - [x] minikube
 - [x] helm
 - [x] crossplane
 - [x] terraform
+- [x] cdk
 - [x] bash
 - [ ] ash
 - [ ] [webhook](https://github.com/adnanh/webhook)
 - [ ] next.js
 - [ ] zsh
 - [ ] fish
+- [ ] nodejs
+- [x] deno
 
 ### lang
 - [ ] C
 - [ ] Elm
 - [ ] ReasonML
 - [x] Nix
-- [ ] JavaScript
+- [x] JavaScript
 - [x] TypeScript
 - [x] YAML
 - [ ] Java
 - [ ] Elixir
-- [ ] Python
+- [x] Python
 - [ ] Ruby
 - [ ] Rust
 - [ ] Scala
@@ -108,6 +112,7 @@ short for jammed stack 🤪
 ### service
 - [ ] github actions
 - [ ] gitpod
+- [x] AWS
 
 ### network
 - [ ] Istio
